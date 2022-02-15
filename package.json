@@ -1,0 +1,46 @@
+{
+  "name": "DhaniGans",
+  "version": "1.0.0",
+  "description": "BaseDhaniGans",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.3",
+    "async": "^3.2.0",
+    "awesome-phonenumber": "^2.48.0",
+    "axios": "^0.21.1",
+    "cfonts": "^2.9.0",
+    "cheerio": "^1.0.0-rc.9",
+    "child_process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "emoji-api": "^1.0.2",
+    "ffmpeg": "^0.0.4",
+    "file-type": "^16.3.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "jsdom": "^16.5.2",
+    "moment-timezone": "^0.5.33",
+    "performance-now": "^2.1.0",
+    "qs": "^6.10.1",
+    "request": "^2.88.2",
+    "spinnies": "^0.5.1"
+  },
+  "scripts": {
+    "start": "node main",
+    "test": "supervisor main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BOTZ-DHANI"
+  },
+  "keywords": [
+    "Wasu"
+  ],
+  "author": "DhaniGans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BOTZ-DHANI/BOTZ-DHANI/issue"
+  },
+  "homepage": "https://github.com/BOTZ-DHANI/BOTZ-DHANI"
+}
